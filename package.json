@@ -1,0 +1,12 @@
+{
+  "name": "react-native-javascript-template",
+  "version": "0.0.1",
+  "description": "React Native Template for javascript projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flixyudh/react-native-javascript-template.git"
+  },
+  "author": "Flix <flixy121@gmail.com> (https://github.com/flixyudh)",
+  "license": "MIT",
+  "packageManager": "yarn@3.6.4"
+}
