@@ -8,5 +8,9 @@
   },
   "author": "Flix <flixy121@gmail.com> (https://github.com/flixyudh)",
   "license": "MIT",
-  "packageManager": "yarn@3.6.4"
+  "packageManager": "yarn@3.6.4",
+  "dependencies": {
+    "inquirer": "^11.0.1",
+    "ora": "^8.1.0"
+  }
 }
